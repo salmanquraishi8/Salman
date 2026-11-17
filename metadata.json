@@ -1,0 +1,6 @@
+{
+  "name": "Maréa — Summer & Beachwear Lookbook",
+  "description": "An editorial summer swimwear, resort wear, and coastal style lookbook & photography gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
